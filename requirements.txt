@@ -8,6 +8,6 @@ pyparsing==2.2.0
 requests==2.14.1
 six==1.10.0
 telepot==11.0
-urllib3==1.21.1
+urllib3==1.24.2
 yarl==0.10.2
 foaas==0.2.0
